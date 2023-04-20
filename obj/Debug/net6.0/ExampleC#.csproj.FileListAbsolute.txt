@@ -1,0 +1,15 @@
+E:\DISK3TB\git\ExampleC#\bin\Debug\net6.0\ExampleC#.exe
+E:\DISK3TB\git\ExampleC#\bin\Debug\net6.0\ExampleC#.deps.json
+E:\DISK3TB\git\ExampleC#\bin\Debug\net6.0\ExampleC#.runtimeconfig.json
+E:\DISK3TB\git\ExampleC#\bin\Debug\net6.0\ExampleC#.dll
+E:\DISK3TB\git\ExampleC#\bin\Debug\net6.0\ExampleC#.pdb
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.csproj.AssemblyReference.cache
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.AssemblyInfoInputs.cache
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.AssemblyInfo.cs
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.csproj.CoreCompileInputs.cache
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.dll
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\refint\ExampleC#.dll
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.pdb
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ExampleC#.genruntimeconfig.cache
+E:\DISK3TB\git\ExampleC#\obj\Debug\net6.0\ref\ExampleC#.dll
